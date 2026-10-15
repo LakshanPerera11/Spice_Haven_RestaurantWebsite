@@ -89,6 +89,9 @@ src/
 
 No backend required — everything runs client-side.
 
+##GitHub Link
+https://github.com/LakshanPerera11/Spice_Haven_RestaurantWebsite
+
 ## Documentation
 
 See `DOCUMENTATION.md` for problems faced and solutions.
